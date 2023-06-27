@@ -1,0 +1,2 @@
+# WxWid
+This is an example solution with the hello world example from WxWidgets. To run make sure you have setup the WXWIN enviornment variable to point towards your WxWidgets install. From here open the solution, build, and run.  
